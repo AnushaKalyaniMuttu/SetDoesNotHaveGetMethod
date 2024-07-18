@@ -1,0 +1,4 @@
+Sets are collections of items without duplicates.
+Sets are not ordered collections, so elements do not have a particular order.
+Sets do not provide control over the position where an element can be inserted.
+Elements cannot be accessed by their index or searched in the list.
